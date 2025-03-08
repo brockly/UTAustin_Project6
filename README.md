@@ -36,7 +36,7 @@ Businesses face the ongoing challenge of efficiently categorizing and responding
 git clone [repository_url]
 ```
 
-2. Open and run the provided Jupyter notebook (.ipynb file) to replicate the analysis and modeling steps.
+2. Open and run the provided Jupyter notebook (`.ipynb` file) to replicate the analysis and modeling steps.
 
 ## Data
 Obtain the dataset from the resources.
